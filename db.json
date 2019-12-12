@@ -1,31 +1,22 @@
 {
-  "posts": [
+  "request": 
+  [
     {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "rv": 
+      {
+        "address": "0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c"
+      },
+      "adherents":[
+        {
+          mail: "mail1@mail.com",
+          addresss: "0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C"
+        },
+        {
+          mail: "mail2@mail.com",
+          addresss: "0x0"
+        }
+      ]
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
