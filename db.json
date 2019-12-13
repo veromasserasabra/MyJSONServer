@@ -1,7 +1,6 @@
 {
   "request": [
     {
-      "id": 1,
       "symbol": "BTCEUR",
       "currency": "EUR",
       "bid": 6505.81,
