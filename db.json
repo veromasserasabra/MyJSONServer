@@ -1,22 +1,17 @@
 {
-  "request": 
-  [
+  "result": [
     {
-      "id": 1,
-      "rv": 
-      {
-        "address": "0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c"
-      },
-      "adherents":[
-        {
-          "mail": "mail1@mail.com",
-          "addresss": "0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C"
-        },
-        {
-          "mail": "mail2@mail.com",
-          "addresss": "0x0"
-        }
-      ]
+      "symbol": "BTCEUR",
+      "currency": "EUR",
+      "bid": 6505.81,
+      "ask": 6535.73,
+      "last": 6519.61,
+      "open": 6484.25,
+      "close": 6459.53,
+      "low": 6380,
+      "high": 6532.76,
+      "volume": 110942.94666,
+      "volume_traded": 17.1293
     }
   ]
 }
