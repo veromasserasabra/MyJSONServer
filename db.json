@@ -1,17 +1,1 @@
-{
-  "result": [
-    {
-      "symbol": "BTCEUR",
-      "currency": "EUR",
-      "bid": 6505.81,
-      "ask": 6535.73,
-      "last": 6519.61,
-      "open": 6484.25,
-      "close": 6459.53,
-      "low": 6380,
-      "high": 6532.76,
-      "volume": 110942.94666,
-      "volume_traded": 17.1293
-    }
-  ]
-}
+{"result":[{"symbol":"BTCEUR","currency":"EUR","bid":6505.81,"ask":6535.73,"last":6519.61,"open":6484.25,"close":6459.53,"low":6380.0,"high":6532.76,"volume":110942.94666,"volume_traded":17.1293}]}
