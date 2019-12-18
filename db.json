@@ -1,30 +1,31 @@
 {
-  "request": 
-  [
+  "request": [
     {
       "id": 1,
-      "rv": 
-      {
+      "rv": {
         "address": "0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c"
       },
-      "adherents":[
+      "adherents": [
         {
           "mail": "mail1@mail.com",
-          "addresss": "0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C"
+          "userPerId": "id_Adh1_1",
+          "addresss": "0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C",
+          "signed": true
         },
         {
           "mail": "mail2@mail.com",
-          "addresss": "0x0"
+          "userPerId": "id_Adh1_2",
+          "addresss": "0x0",
+          "signed": true
         }
       ]
     },
     {
       "id": 2,
-      "rv": 
-      {
+      "rv": {
         "address": "0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c"
       },
-      "adherents":[
+      "adherents": [
         {
           "mail": "mail3@mail.com",
           "addresss": "0x14723A09ACff6D2A60DcdF7aA4AFf308FDDC160C"
